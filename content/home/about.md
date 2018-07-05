@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Climate Science",
+    "Geospatial Statistics and Timeseries Analysis",
+    "Data Homogenisation and Quality Control",
+    "Statistical Learning",
+    "Quantum Information Theory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+course = "Honours in Physics"
+  institution = "ARC Centre of excellence for Quantum Computation and Communication Technology, UNSW Sydney"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc (Adv.) in Physics"
+  institution = "School of Physics, UNSW Sydney"
+  year = 2012
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Steefan is interested in gaining crucial insights from data (such as climate system observations or projections) by using novel statistical and numerical analysis techniques. He is also interested in effectively communicating these insights using simple data visualisations (check out [isithotrightnow.com](https://isithotrightnow.com)).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+During his Phd, Steefan has gained a comprehensive understanding of the complex changes in global rainfall by applying a novel statistical technique that reveals changes in all intensities of rainfall using a brand new dataset of rainfall that he developed by harmonisation, homogenisation, quality control and interpolation of large global data archives. This state of the art dataset is enabling cutting-edge reserach around the globe. 
+
+Based on his background in experimental quantum computing, he is also interested in algorithms that take advantage of quantum computers to overcome computational constraints on complex analysis of large datasets.
