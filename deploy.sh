@@ -3,12 +3,14 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Remove public directory
+cp public/.git .git_backup
 rm -rf public
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
+cp .git_backup public/.git
 cd public
 # Add changes to git.
 git add .
