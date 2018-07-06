@@ -6,7 +6,7 @@ date = 2018-02-27
 title = "isithotrightnow.com"
 
 # Project summary to display on homepage.
-summary = "Are temperatures right now in Australia anomalously warrm or cold compared to the past? - A website answering this with simple visualisations and statistics, co created with [Mat Lipson](https://www.theurbanist.com.au/about/) and [James Goldie](https://rensa.co/)."
+summary = "Are temperatures in Australia right now anomalously warm or cold compared to the past? - A website answering this with simple visualisations and statistics, co-created with [Mat Lipson](https://www.theurbanist.com.au/about/) and [James Goldie](https://rensa.co/)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "isithotrightnow.png"
