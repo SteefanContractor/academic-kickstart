@@ -60,4 +60,4 @@ I have applied for [The Data Incubator](https://www.thedataincubator.com/applica
 
 Based on the above information I have updated my resume as follows. You can compare this updated resume with my full research CV [here](https://steefancontractor.github.io/pdf/SteefanContractor_CV.pdf).
 
-<iframe src="http://localhost:1313/pdf/CV_SContractor_Jul2018_updated_industry.pdf" width="110%" height="1000"></iframe>
+<iframe src="https://steefancontractor.github.io/pdf/CV_SContractor_Jul2018_updated_industry.pdf" width="110%" height="1000"></iframe>
