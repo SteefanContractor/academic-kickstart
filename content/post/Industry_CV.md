@@ -20,7 +20,7 @@ preview = true
 
 +++
 
-I have applied for [The Data Incubator](https://www.thedataincubator.com/application_status.html) Fellowship program, a highly competetive fellowship aimed at bringing researchers with exceptional data analysis and statistical talent into industry. During the process I have been asked to update my resume based on some very helpful tips. I wish to share this advice with any fellow researchers interested in applying for industry data science positions. Note that I do NOT own any of the following information and The Data Incubator is completely within its rights to request me to take this post down, should they desire. 
+I have applied for [The Data Incubator](https://www.thedataincubator.com/application_status.html) Fellowship program, a highly competitive fellowship aimed at bringing researchers with exceptional data analysis and statistical talent into industry. During the process I have been asked to update my resume based on some very helpful tips. I wish to share this advice with any fellow researchers interested in applying for industry data science positions. Note that I do NOT own any of the following information and The Data Incubator is completely within its rights to request me to take this post down, should they desire. 
 
 >...you will not be judged by the sum total of what you have accomplished, but rather by the average of what you present. So your strategy should only be to present the best things (as judged by your audience) and cut out anything else. The other stuff only detracts.
 
