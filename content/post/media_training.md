@@ -18,6 +18,8 @@ image = ""
 caption = ""
 preview = true
 
+
+
 +++
 
 The ARC Centres of Excellence for Climate Extremes ([CLEX](https://climateextremes.org.au)) and Convergent Bio-nano Science & Technology ([CBNS](https://www.cbns.org.au/)) held an all day media training workshop today.
@@ -172,4 +174,3 @@ Finally, here are some palmcards with common non-verbal communication related pr
 
 __Special thanks to all the participants and organisors, especially Alvin and Anne for running this workshop!__
 
-{{ template "_internal/disqus.html" . }}
