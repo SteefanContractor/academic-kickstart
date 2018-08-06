@@ -172,3 +172,4 @@ Finally, here are some palmcards with common non-verbal communication related pr
 
 __Special thanks to all the participants and organisors, especially Alvin and Anne for running this workshop!__
 
+{{ template "_internal/disqus.html" . }}
