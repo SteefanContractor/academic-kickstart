@@ -57,11 +57,12 @@ enableGitInfo = false
 #  name = "Lena Smith"
 #  role = "Professor of Artificial Intelligence"
   name = "Steefan Contractor"
-  role = "Doctoral candidate in Climate Data Science"
+  role = "Postdoctoral Fellow & Geostatistical Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Climate Change Research Centre & ARC Centre of Excellence for Climate Systems Science, UNSW Sydney", url = "http://www.ccrc.unsw.edu.au/ccrc-team/students/steefan-contractor" } ]
+  # organizations = [ { name = "Climate Change Research Centre & ARC Centre of Excellence for Climate Systems Science, UNSW Sydney", url = "http://www.ccrc.unsw.edu.au/ccrc-team/students/steefan-contractor" } ]
+  organizations = [ { name = "School of Mathematics and Statistics, UNSW Sydney", url = "http://oceanography.unsw.edu.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profilepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -286,7 +287,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "pdf/SteefanContractor_CV.pdf"
+  url = "pdf/CV_SContractor_Jun2019.pdf"
   weight = 7
 
 # Taxonomies.
