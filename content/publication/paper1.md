@@ -8,7 +8,7 @@ math = true
 publication = "*Advances in Meteorology*, vol. 2015, Article ID 325718, 15 pages"
 title = "How Well Do Gridded Datasets of Observed Daily Precipitation Compare over Australia?"
 url_pdf = "pdf/325718.pdf"
-selected = true
+selected = false
 
 [[url_custom]]
 name = "URL"
