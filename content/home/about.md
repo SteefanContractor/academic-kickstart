@@ -19,6 +19,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+course = "PhD"
+  institution = "Climate Change Research Centre and ARC Centre of Excellence for Climate System Science, UNSW Sydney"
+  year = 2019
+
+[[education.courses]]
 course = "Honours in Physics"
   institution = "ARC Centre of excellence for Quantum Computation and Communication Technology, UNSW Sydney"
   year = 2012
